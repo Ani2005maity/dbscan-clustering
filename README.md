@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DBSCAN Clustering Example
 
 This project demonstrates the DBSCAN clustering algorithm using Python and Scikit-learn.
