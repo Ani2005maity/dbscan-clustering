@@ -61,4 +61,5 @@ plt.ylabel("Y")
 plt.legend()
 plt.grid(True)
 
+plt.savefig("images/cluster_output.png")
 plt.show()
